@@ -13,7 +13,7 @@
 <div align="center">
 <h4>Simple as RabbitMQ, robust as Apache Kafka, and perfect for busy developers.</h4>
 
-<img width="750" alt="Memphis UI" src="https://user-images.githubusercontent.com/70286779/204081372-186aae7b-a387-4253-83d1-b07dff69b3d0.png"><br>
+<img width="750" alt="Memphis UI" src="https://user-images.githubusercontent.com/70286779/225561818-737b69b3-1753-4340-aab1-fcd1f8f02195.png"><br>
 
   
   <a href="https://landscape.cncf.io/?selected=memphis"><img width="200" alt="CNCF Silver Member" src="https://github.com/cncf/artwork/raw/master/other/cncf-member/silver/white/cncf-member-silver-white.svg#gh-dark-mode-only"></a>
